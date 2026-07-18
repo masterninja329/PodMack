@@ -789,10 +789,6 @@ file = "mmc-pack.json"
 hash = "3d075def07144b00fbff344cf64552e7e1c8fe2e8051566590602865c19439bf"
 
 [[files]]
-file = "mods/HorseBuff-1.21-2.1.8.jar"
-hash = "0937f1acf2b996084257a3edecdeff38ba72695bd4b0fc7de186456752bf995f"
-
-[[files]]
 file = "mods/advanced-netherite-fabric.pw.toml"
 hash = "0880d40864667d09c4f011f2971c298d58645847b42ab7a35750ace6780123e9"
 metafile = true
@@ -1000,6 +996,11 @@ metafile = true
 [[files]]
 file = "mods/horse-pouch.pw.toml"
 hash = "8c6d73612a130e548de211f622ad224064b5b2d906fb24f635e9bed299a2319a"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
 metafile = true
 
 [[files]]
