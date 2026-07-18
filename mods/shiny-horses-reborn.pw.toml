@@ -3,11 +3,11 @@ filename = "shiny-horses-reborn-1.2.0-1.21.1-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "275518705a964501f8084e94fea541232b523ea9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Ik3MOx37/versions/msydcIBT/shiny-horses-reborn-1.2.0-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "3cd9e53797e76552a09da90dbc88db8bb5ea932701c70933bf828736892048521285b03764c41d21da84c48f14999ec2d4729f63dcec89037fc6b2e8ad14d133"
 
 [update]
-[update.curseforge]
-file-id = 7530915
-project-id = 1350518
+[update.modrinth]
+mod-id = "Ik3MOx37"
+version = "msydcIBT"

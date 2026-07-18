@@ -3,11 +3,11 @@ filename = "[1.21.1-Fabric] Hybrid Birds 1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "32e70c1611e7571969c14c87bf8c7694a6437206"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/txgXquyE/versions/nkXrRI7Z/%5B1.21.1-Fabric%5D%20Hybrid%20Birds%201.2.1.jar"
+hash-format = "sha512"
+hash = "e97befab172b04a3bfa7adf47284981d242a4211aa8f312e92c7b7dcde5daa4ae7d3dc95e678d977c5bbee76817bcadc2c4976ac8d5d80db3a34b5f13a446138"
 
 [update]
-[update.curseforge]
-file-id = 8348220
-project-id = 883371
+[update.modrinth]
+mod-id = "txgXquyE"
+version = "nkXrRI7Z"

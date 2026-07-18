@@ -789,6 +789,11 @@ file = "mmc-pack.json"
 hash = "3d075def07144b00fbff344cf64552e7e1c8fe2e8051566590602865c19439bf"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "abd853502542de7e87f6bbe6d4f08f1185058689fe8a5b2cafafab0d2c74a2d5"
+metafile = true
+
+[[files]]
 file = "mods/advanced-netherite-fabric.pw.toml"
 hash = "0880d40864667d09c4f011f2971c298d58645847b42ab7a35750ace6780123e9"
 metafile = true
@@ -1015,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-birds.pw.toml"
-hash = "91ad0241532647ba4c2ce9f794a5f3a1ac8a3f0899ea0c47de3ff10f1377728a"
+hash = "82f2a320693657341bc27c4a8543b9df6efb09527c51b76ca967a5121aa911c2"
 metafile = true
 
 [[files]]
@@ -1205,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3a39acefa92c436968fb4cfaa87f1171284793665abf79d088c73cff19c1d5a2"
+hash = "de8e4e5701944ed7089011bce857333fde54e7d19deeb8364deab3072265d609"
 metafile = true
 
 [[files]]
@@ -1260,7 +1265,7 @@ metafile = true
 
 [[files]]
 file = "mods/shiny-horses-reborn.pw.toml"
-hash = "785b93f212eaf65a48bba6c6aed6ddbbd7f2e9b39e731ac0a82cccc0f90d04d7"
+hash = "1a72ec6e834cb73fdd3aff0b35dcaaa3f9757d730e94da5a84e2f19798ea5e86"
 metafile = true
 
 [[files]]
@@ -1301,11 +1306,6 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "b3012b407c6e1c3ade845cf4c30bce13b000864123668710f6b670009ccfecf5"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "65b1025b0ad29a74d7b4e3ef4a5f69d87b7b4085ec9b901b1755330c8e931f96"
 metafile = true
 
 [[files]]
@@ -1511,12 +1511,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/os-colorful-grasses.pw.toml"
-hash = "d9bc6e321a5fb5de70fce3fa98ba7d601b31983f38db26bd9c24c9a76fffe503"
+hash = "adc78aa4349b15f997b1731b2347e42297188fbe123bb1a1edfa9b8dd7f79734"
 metafile = true
 
 [[files]]
 file = "resourcepacks/programmer-art-fix.pw.toml"
-hash = "039112bbc4da4ce3e8737295fbef816a4178dcc0e1ef58d0ef7b1ec07258827f"
+hash = "caa9871b5fc64084dedd8cc79635dabd1e1500cd7dd4c5de8011015f2a1393c3"
 metafile = true
 
 [[files]]
