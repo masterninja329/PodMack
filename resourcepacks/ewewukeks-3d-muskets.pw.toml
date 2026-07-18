@@ -1,0 +1,13 @@
+name = "ewewukek's 3D muskets"
+filename = "3D-muskets.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7a5474e900c914b8c75f8f8817df9b82d4b3b2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6082419
+project-id = 1114702

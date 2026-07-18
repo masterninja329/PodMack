@@ -1,0 +1,13 @@
+name = "Programmer Art Fix"
+filename = "ProgrammerArtFix-26.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1a4b30f74a5bf8f7028194e312e28852abbc340"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8252671
+project-id = 342663

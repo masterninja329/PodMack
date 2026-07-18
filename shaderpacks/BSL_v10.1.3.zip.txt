@@ -1,0 +1,2 @@
+#Sat Jul 11 23:31:42 MST 2026
+GLOWING_ORES=true
