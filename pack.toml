@@ -11,3 +11,6 @@ hash = "027838026a61a72f0379fda74d668a03d936e1fe8b27661f013205b4a844cf7f"
 [versions]
 fabric = "0.19.3"
 minecraft = "1.21.1"
+
+[download]
+mode = "url"
