@@ -1485,6 +1485,11 @@ file = "mods/alcocraftplus-1.21.1-2.1.2-fabric.jar"
 hash = "a92c3c83dbb140fda02fac3bea26db6904cc29517eb720cfcf7b363c75955694"
 
 [[files]]
+file = "mods/alcocraftplus.pw.toml"
+hash = "09555f11ae072f84f70a5deafb1fabf904865632ee8d5d398b44f93e19a839cd"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "2a1d04d6f5be54355a3c9973506bea86c845362c82d522e4692cb03510a095d1"
 metafile = true
