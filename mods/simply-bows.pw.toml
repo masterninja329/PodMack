@@ -1,0 +1,13 @@
+name = "Simply Bows"
+filename = "SimplyBows-fabric-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5817778d3ea662a7f704ea0a778354ffeb2f9343"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7731425
+project-id = 1475770

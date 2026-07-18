@@ -1,0 +1,21 @@
+filename = 'serversidehorror-1.21.1-fabric-4.2.jar'
+name = 'Server-Side Horror'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'serversidehorror-1.21.1-fabric-4.2'
+
+[download]
+hash = '4fca0ad6e558c0cdadfaf3c89e9d3db307fc7454'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8253289
+project-id = 1317593
+
+[[x-prismlauncher-dependencies]]
+addonId = '1158094'
+type = 'REQUIRED'

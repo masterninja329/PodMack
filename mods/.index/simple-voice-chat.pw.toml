@@ -1,0 +1,45 @@
+filename = 'voicechat-fabric-1.21.1-2.6.20.jar'
+name = 'Simple Voice Chat'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FABRIC][1.21.1] Simple Voice Chat 1.21.1-2.6.20'
+
+[download]
+hash = '82e475b258bd887e03d6d93d6564fa5ea869c6ee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8293104
+project-id = 416089
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '676275'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '549719'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '535489'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '391298'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '431733'
+type = 'OPTIONAL'

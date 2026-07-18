@@ -1,0 +1,33 @@
+filename = 'YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar'
+name = "YUNG's Better Strongholds"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[1.21.1] YUNG's Better Strongholds v5.1.3 (Fabric)"
+
+[download]
+hash = '1ef8824995ea5e4e556b354d3195a3187aa1602f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6272265
+project-id = 480684
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '421649'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'

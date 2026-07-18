@@ -1,0 +1,21 @@
+filename = 'extrasounds-1.5.4+1.21.1-fabric.jar'
+name = 'ExtraSounds Next'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ExtraSounds Next 1.5.4 Fabric 1.21.1'
+
+[download]
+hash = 'e36c4d3012f527f17f710d1938356d0087041cad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7815328
+project-id = 946784
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

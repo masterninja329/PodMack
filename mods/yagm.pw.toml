@@ -1,0 +1,13 @@
+name = "Yet Another Gravestone [YAGM]"
+filename = "yagm-1.21.1-0.1.2-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0590e576d092d48be0d5d8b0f6130746ce1542ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8258940
+project-id = 1559657

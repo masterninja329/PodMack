@@ -1,0 +1,18 @@
+filename = 'SimplyTooltips-fabric-0.1.3.jar'
+name = 'Simply Tooltips'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.3'
+
+[download]
+hash = 'e4e5797491cf05571baa7ea7824c12201283503221ca51fd62ea006aaff465ccd64de73f5b7b977a8a9ba20a47a5d1c0c38d5a8ace17a8545fbb7ac4ae97e47d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6avVoBVB/versions/jrFEfRpA/SimplyTooltips-fabric-0.1.3.jar'
+
+[update.modrinth]
+mod-id = '6avVoBVB'
+version = 'jrFEfRpA'

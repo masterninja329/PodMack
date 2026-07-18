@@ -1,0 +1,29 @@
+filename = 'moreoverlays-1.24.1-mc1.21.1-fabric.jar'
+name = 'More Overlays Updated'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.21.1 Fabric] MoreOverlays v1.24.1'
+
+[download]
+hash = '18e08476c281b3f358085b8e49b8c32b84dfea7b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6942215
+project-id = 391382
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '532610'
+type = 'REQUIRED'

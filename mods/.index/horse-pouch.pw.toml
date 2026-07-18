@@ -1,0 +1,18 @@
+filename = 'fabric-horsepouch-1.21.1-115.1.1.jar'
+name = 'Horse Pouch'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fabric-horsepouch-1.21.1-115.1.1.jar (Version 2.0 with all steeds)'
+
+[download]
+hash = 'de0461b07e6c9622fed03dde9a38168dd7c7cb61'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6242311
+project-id = 910745

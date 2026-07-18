@@ -1,0 +1,18 @@
+filename = 'horseshoes-fabric-1.21.1-1.3.3.jar'
+name = 'Horseshoes'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.3'
+
+[download]
+hash = '542485d3693a1e4b22bc5910ee6e1526bf95dbd0e496d90efb5c43295ade7dba24b6a4294ba8dda4c1b3f7cdba710c5bcf5c8dd29e54fa086251af8577af7d21'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tyg1IZwj/versions/hEUpvqEO/horseshoes-fabric-1.21.1-1.3.3.jar'
+
+[update.modrinth]
+mod-id = 'tyg1IZwj'
+version = 'hEUpvqEO'

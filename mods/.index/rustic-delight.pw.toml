@@ -1,0 +1,25 @@
+filename = 'rusticdelight-fabric-1.21.1-1.6.0.jar'
+name = 'Rustic Delight'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.0'
+
+[download]
+hash = '524d0bfa2774f4fe1604d00bf4089a3c7a78fe773f5b27498efae5e669f1feb6186e968d3945766383c927bc8ce70e91b5e5054847ca27314277908d84e296fb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/foa4fGIH/versions/tvoeJmq3/rusticdelight-fabric-1.21.1-1.6.0.jar'
+
+[update.modrinth]
+mod-id = 'foa4fGIH'
+version = 'tvoeJmq3'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '7vxePowz'
+type = 'REQUIRED'

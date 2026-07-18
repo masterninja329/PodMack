@@ -1,0 +1,41 @@
+filename = '[1.21.1-Fabric] Hybrid Aquatic 1.6.7.jar'
+name = 'Hybrid Aquatic'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.7-fabric'
+
+[download]
+hash = '3bbf5b3ff6d3663c27c5709e5e32b69b28b0a7883a3dd4515b137f5ecb96284e3e150aa0af3ce3a528b42c371d53af82b485cc28044f594cc8cb181ac24104f1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HH4FjUqN/versions/iHV6q8YP/%5B1.21.1-Fabric%5D Hybrid Aquatic 1.6.7.jar'
+
+[update.modrinth]
+mod-id = 'HH4FjUqN'
+version = 'iHV6q8YP'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'iGEl6Crx'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XaDC71GB'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5aaWibi9'
+type = 'REQUIRED'

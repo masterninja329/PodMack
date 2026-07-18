@@ -1,0 +1,13 @@
+name = "Horse Pouch"
+filename = "fabric-horsepouch-1.21.1-115.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de0461b07e6c9622fed03dde9a38168dd7c7cb61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6242311
+project-id = 910745

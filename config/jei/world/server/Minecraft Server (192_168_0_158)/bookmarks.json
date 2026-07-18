@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:iron_axe","components":{"minecraft:damage":59}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:runic_tablet"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

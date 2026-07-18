@@ -1,0 +1,13 @@
+name = "Hybrid Birds"
+filename = "[1.21.1-Fabric] Hybrid Birds 1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32e70c1611e7571969c14c87bf8c7694a6437206"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8348220
+project-id = 883371

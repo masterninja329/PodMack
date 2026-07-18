@@ -1,0 +1,8 @@
+# Walkie-Talkie common config (Fabric)
+# Matches NeoForge keys for parity.
+
+range = 500
+undergroundRangeMultiplier = 0.30
+batteryDrainRate = 1
+streamRange = 50
+debugLogs = false

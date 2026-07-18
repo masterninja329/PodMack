@@ -1,0 +1,13 @@
+name = "Shiny Horses Reborn"
+filename = "shiny-horses-reborn-1.2.0-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "275518705a964501f8084e94fea541232b523ea9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7530915
+project-id = 1350518

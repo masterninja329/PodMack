@@ -1,0 +1,13 @@
+name = "PodMack"
+author = "TropicalTampico"
+version = "0.6.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "027838026a61a72f0379fda74d668a03d936e1fe8b27661f013205b4a844cf7f"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.1"

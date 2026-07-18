@@ -1,0 +1,33 @@
+filename = 'YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar'
+name = "YUNG's Better Ocean Monuments"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[1.21.1] YUNG's Better Ocean Monuments v4.1.2 (Fabric)"
+
+[download]
+hash = 'e8b566f5c941018cbd0bf8a32aa4c4ea3a410bfd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5924489
+project-id = 689252
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '421649'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'

@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"tide:angling_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tide:starlight_bow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:fishing_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tide:fishing_journal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:netherfused_gem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ends_delight:enderman_gristle_stew"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

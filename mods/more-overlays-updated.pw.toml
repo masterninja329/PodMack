@@ -1,0 +1,13 @@
+name = "More Overlays Updated"
+filename = "moreoverlays-1.24.1-mc1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18e08476c281b3f358085b8e49b8c32b84dfea7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6942215
+project-id = 391382

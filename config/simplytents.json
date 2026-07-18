@@ -1,0 +1,5 @@
+{
+  "ENABLE_INTERIOR_PICKUP": true,
+  "RESTRICT_PICKUP": false,
+  "SPAWN_LOGIC": "HOME"
+}

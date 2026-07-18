@@ -1,0 +1,25 @@
+filename = 'immersive_furniture-fabric-0.2.2+1.21.1.jar'
+name = 'Immersive Furniture'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric 1.21.1] Immersive Furniture - 0.2.2'
+
+[download]
+hash = 'fd276721897354f4b54a43903afcd3d908a2b848'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8205891
+project-id = 1283531
+
+[[x-prismlauncher-dependencies]]
+addonId = '429235'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

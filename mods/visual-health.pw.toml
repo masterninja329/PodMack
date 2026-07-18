@@ -1,0 +1,13 @@
+name = "Visual Health"
+filename = "visualhealth-fabric-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9495aeec02db52993bc93af6083c63f0d5ed97c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8224515
+project-id = 1473785

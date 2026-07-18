@@ -1,0 +1,13 @@
+name = "Ube's Delight"
+filename = "ubesdelight-fabric-1.21.1-0.4.14-3.0.0+refab.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85e7a5c80fe3b97b36b250181aeea16fc6da78c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8287416
+project-id = 903894

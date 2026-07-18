@@ -1,0 +1,13 @@
+name = "Server-Side Horror"
+filename = "serversidehorror-1.21.1-fabric-4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fca0ad6e558c0cdadfaf3c89e9d3db307fc7454"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8253289
+project-id = 1317593

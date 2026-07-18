@@ -1,0 +1,13 @@
+name = "Simple Netherite Horse Armor"
+filename = "netherite_horse_armor-fabric-1.21.1-2.0a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29ecd29da7d3d2bd83e3cc171e10a0e7c345fb92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7049390
+project-id = 677675

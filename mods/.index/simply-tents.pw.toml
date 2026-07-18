@@ -1,0 +1,18 @@
+filename = 'simplytents-3.6-1.21.1.fabric.jar'
+name = 'Simply Tents'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.3'
+
+[download]
+hash = 'b2b5aa605dde6b34b0745cfcbf2e786e3f16bcc2e14e141ea3b31727552671a3e95f5bc68525ffe6f76bb3105313f6c7820789c5bd54ea07d75cc9a4e3873ee9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yWY7WWmg/versions/Vxj81yjW/simplytents-3.6-1.21.1.fabric.jar'
+
+[update.modrinth]
+mod-id = 'yWY7WWmg'
+version = 'Vxj81yjW'

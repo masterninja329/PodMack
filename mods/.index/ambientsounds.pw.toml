@@ -1,0 +1,18 @@
+filename = 'AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar'
+name = 'AmbientSounds'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar'
+
+[download]
+hash = 'dc7248864901411ec5289d945133c94d8c0e8f64'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8043013
+project-id = 254284

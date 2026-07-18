@@ -1,0 +1,13 @@
+name = "Immersive Furniture"
+filename = "immersive_furniture-fabric-0.2.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd276721897354f4b54a43903afcd3d908a2b848"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8205891
+project-id = 1283531

@@ -1,0 +1,21 @@
+filename = 'mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar'
+name = "Macaw's Stairs and Balconies"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.0.2 / mc1.21.1 - Fabric'
+
+[download]
+hash = '1b549de4a2a4059e56ed8868b556e3746adc73fb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7317453
+project-id = 1119394
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

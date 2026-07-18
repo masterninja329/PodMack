@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"musketmod:musket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"musketmod:pistol"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplymore:black_pearl"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplymore:runic_grandsword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplymore:netherite_backhand_blade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplymore:runic_backhand_blade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplymore:diamond_grandsword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwbridges:iron_bridge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwbridges:iron_bridge_stair"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:leather"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"horsepouch:horse_pouch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"netherite_horse_armor:netherite_horse_armor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"horseshoes:netherite_horseshoes"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

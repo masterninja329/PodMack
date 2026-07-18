@@ -1,0 +1,18 @@
+filename = 'JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar'
+name = 'Just Enough Resources'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.6.0.17'
+
+[download]
+hash = '520a0b772c55a1617422c78a978dc37037a3cfe61abe2949f33f95360d0f9dc59c34e3c68d442d0a0f1b4bc310fefae6a65448d6344ec1fe0bebc94d9b3b2ca8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uEfK2CXF/versions/a9biQ4Kt/JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar'
+
+[update.modrinth]
+mod-id = 'uEfK2CXF'
+version = 'a9biQ4Kt'

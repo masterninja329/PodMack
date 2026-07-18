@@ -1,0 +1,13 @@
+name = "Simply Tents"
+filename = "simplytents-3.6-1.21.1.fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ab6f0493876332a28f78f86b7fdc9510f2ad8d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8198027
+project-id = 1152882

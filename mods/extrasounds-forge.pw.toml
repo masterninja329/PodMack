@@ -1,0 +1,13 @@
+name = "ExtraSounds Next"
+filename = "extrasounds-1.5.4+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e36c4d3012f527f17f710d1938356d0087041cad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7815328
+project-id = 946784

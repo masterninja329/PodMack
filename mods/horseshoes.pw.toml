@@ -1,0 +1,13 @@
+name = "Horseshoes"
+filename = "horseshoes-fabric-1.21.1-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5126197af7f98aec43dd361f713ec290155abce5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7295815
+project-id = 986033

@@ -1,0 +1,25 @@
+filename = 'flowerymooblooms-fabric-3.0.3+mc1.21.1.jar'
+name = 'Friends&Foes - Flowery Mooblooms'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Friends&Foes - Flowery Mooblooms 3.0.3'
+
+[download]
+hash = '6d196fe7b48893e18f7d4981ae720d50b58b69d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8156156
+project-id = 779833
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '602059'
+type = 'REQUIRED'
