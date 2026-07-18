@@ -17,6 +17,10 @@ file = "CNAME"
 hash = "a877d39a112c605f78ec52777d1b30cdbf73050d918871fb96e819913ea11bfa"
 
 [[files]]
+file = "Pages"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
