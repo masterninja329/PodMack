@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = ".packignore"
 hash = "b52ca827ab91251762fbb1ba4d72b1481709271cc76af10842bdf4768cea7c2e"
 
