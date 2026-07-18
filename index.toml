@@ -1184,11 +1184,6 @@ hash = "33a4454a444570a7d9a28c46123b73cfa28324bd4416332d4763bf61d5b71221"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "056b8b00fd6b48c12989f9ce89ad05e0ee30e551e85f9c2c774b8721ff76b557"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "3cd8155341a4233955ff9892a3b7b5da6dc6d8d892863b2f544328f2731f7f03"
 metafile = true
