@@ -3,11 +3,11 @@ filename = "horseshoes-fabric-1.21.1-1.3.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5126197af7f98aec43dd361f713ec290155abce5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/tyg1IZwj/versions/hEUpvqEO/horseshoes-fabric-1.21.1-1.3.3.jar"
+hash-format = "sha512"
+hash = "542485d3693a1e4b22bc5910ee6e1526bf95dbd0e496d90efb5c43295ade7dba24b6a4294ba8dda4c1b3f7cdba710c5bcf5c8dd29e54fa086251af8577af7d21"
 
 [update]
-[update.curseforge]
-file-id = 7295815
-project-id = 986033
+[update.modrinth]
+mod-id = "tyg1IZwj"
+version = "hEUpvqEO"

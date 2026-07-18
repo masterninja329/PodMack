@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/alcocraft.pw.toml"
-hash = "36347c8242ecb3342c52f42a6ec5c5d23a712c9479c755c9c76c73359a05134f"
+hash = "b7b61b9cc75c7b4a63148ca4763a04f68f6b3505a776ccba6906989ff7779a94"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a4b4c275e986b49c1aade7a89fa63a23010207746f3f5dc33dea4e91e38347c2"
+hash = "f23a0d6d48cc27e24e8c4cacf9231fe146f82e9ff27c90b2fd96e1de4482e765"
 metafile = true
 
 [[files]]
@@ -1010,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseshoes.pw.toml"
-hash = "3667ade54e2e6b639124d6e6fa8f5cdf5629e5d169b4642a7beccbc4a8687e75"
+hash = "c23ff245d583ca6e2723215fcd002887e57e0f102f36a3961714ef49b9bae765"
 metafile = true
 
 [[files]]
